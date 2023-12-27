@@ -1,4 +1,4 @@
-
+https://github.com/kellyabud/Jira_Confluence/assets/135430840/e94dd0eb-cecc-4777-9e50-ab854da7eecc
 
 
 O uso conjunto do Jira Software e do Confluence oferece diversas vantagens, principalmente quando se trata de documentação e registro de bugs em um ambiente de desenvolvimento de software. Aqui estão algumas vantagens dessa integração:
